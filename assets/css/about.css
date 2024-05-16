@@ -510,12 +510,12 @@
 # Footer
 --------------------------------------------------------------*/
 .footer {
-  background-color:#043d18;
-  padding: 5rem 0 2.5rem 0;
+  background-color:#cacaca;
+  padding: 2rem 0 2.5rem 0;
 }
 
 .footer .fc{
-  color: #e4e4e4;
+  color: #2c2c2c;
   font-size: 35px;
   font-family: 'poppins';
   padding-top: 5px;
@@ -523,14 +523,14 @@
   font-weight: semi-bold;
 }
 .footer p{
-  color: #a3a3a3;
+  color: #3f3f3f;
   font-size: 15px;
 }
 
 .footer h3 {
   font-size: 18px;
   margin-bottom: 30px;
-  color: #fff;
+  color: #282828;
 }
 
 .footer ul li {
@@ -538,7 +538,7 @@
 }
 
 .footer a {
-  color: #ffffff;
+  color: #393939;
 }
 
 .footer .copyright {

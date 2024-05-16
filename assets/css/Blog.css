@@ -14,6 +14,7 @@ html {
   padding: 0;
 }
 
+
 body {
   font-family: "Roboto", sans-serif;
   color: #9a9a9a;
@@ -808,7 +809,7 @@ figcaption{
 #headers .logo h1 {
   font-size: 28px;
   margin: 0;
-  padding: 4px 0;
+  padding: 15px 0;
   line-height: 1;
   font-weight: 500;
   color:rgb(255, 255, 255);
@@ -862,7 +863,10 @@ figcaption{
   white-space: nowrap;
   transition: 0.3s;
 }
-
+.blog-contents{
+  background: url('../img/shs/kiwihug-zGZYQQVmXw0-unsplash.jpg');
+  padding:2em
+}
 .navbar a i,
 .navbar a:focus i {
   font-size: 12px;
@@ -1191,35 +1195,23 @@ figcaption{
 # Footer
 --------------------------------------------------------------*/
 .footer {
-  background-color:#043d18;
+  background-color: #c9c9c9;
   padding: 5rem 0 2.5rem 0;
-}
-
-.footer .fc{
-  color: #e4e4e4;
-  font-size: 35px;
-  font-family: 'poppins';
-  padding-top: 5px;
-  margin-bottom: none;
-  font-weight: semi-bold;
-}
-.footer p{
-  color: #a3a3a3;
-  font-size: 15px;
 }
 
 .footer h3 {
   font-size: 18px;
   margin-bottom: 30px;
-  color: #fff;
+  color: #000;
 }
 
 .footer ul li {
   margin-bottom: 10px;
+  color: #000;
 }
 
 .footer a {
-  color: #ffffff;
+  color: #000;
 }
 
 .footer .copyright {

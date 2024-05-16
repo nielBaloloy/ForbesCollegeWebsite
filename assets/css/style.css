@@ -9,10 +9,6 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-
-
-
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 html {
   overflow-x: hidden;
 }
@@ -102,54 +98,7 @@ section {
 /*--------------------------------------------------------------
 # Top Bar
 --------------------------------------------------------------*/
-#topbar {
-  background: #f5f5f5;
-  height: 40px;
-  font-size: 14px;
-  transition: all 0.5s;
-  z-index: 996;
-}
 
-#topbar.topbar-scrolled {
-  top: -100px;
-}
-
-#topbar .contact-info a {
-  line-height: 1;
-  color: #444444;
-  transition: 0.3s;
-}
-
-#topbar .contact-info a:hover {
-  color: #064427;
-}
-
-#topbar .contact-info i {
-  color: #0c542f;
-  padding-right: 4px;
-  margin-left: 15px;
-  line-height: 0;
-}
-
-#topbar .contact-info i:first-child {
-  margin-left: 0;
-}
-
-#topbar .social-links a {
-  color: #00603a;
-  padding-left: 15px;
-  display: inline-block;
-  line-height: 1px;
-  transition: 0.3s;
-}
-
-#topbar .social-links a:hover {
-  color: #1977cc;
-}
-
-#topbar .social-links a:first-child {
-  border-left: 0;
-}
 /* ------------events-------------------------- */
 
 .imageMainSection2 img{
@@ -436,7 +385,7 @@ section {
 
 .header_sub{
   display: flex;
-  padding:.5em;
+  padding:.6em;
   justify-content: end;
   color:rgb(2, 92, 2);
   font-weight: 500;
@@ -747,7 +696,7 @@ section {
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
-  top: 40px;
+ 
  
 }
 
@@ -764,25 +713,24 @@ section {
   font-weight: 700;
   letter-spacing: 0.5px;
   font-family: "Poppins", sans-serif;
+}
 
-}
-.Header-title{
-  font-family:'Dancing Script", cursive';
-}
 #header .logo a {
   color: #ffffff;
-  font-size: 45px;
+  font-size:35px;
   font-family: "Poppins", sans-serif;
-  
-}
-.caption-header{
-  font-size: 15px;
-  font-family: "Poppins", sans-serif;
-}
-#header .logo img {
-  max-height: 70px;
+  font-weight: 600;
+
+ 
 }
 
+#header .logo img {
+  max-height: 60px;
+}
+
+.header-title a{
+ margin-top: 20px;
+}
 
 /*--------------------------------------------------------------
 # Navigation Menu
@@ -1157,27 +1105,13 @@ section {
 # Footer
 --------------------------------------------------------------*/
 .footer {
-  background-color:#043d18;
-  padding: 5rem 0 2.5rem 0;
-}
-
-.footer .fc{
-  color: #e4e4e4;
-  font-size: 35px;
-  font-family: 'poppins';
-  padding-top: 5px;
-  margin-bottom: none;
-  font-weight: semi-bold;
-}
-.footer p{
-  color: #a3a3a3;
-  font-size: 15px;
+  background-color: #c4c4c4;
+  padding: 2rem 0 2.5rem 0;
 }
 
 .footer h3 {
   font-size: 18px;
   margin-bottom: 30px;
-  color: #fff;
 }
 
 .footer ul li {
@@ -1185,7 +1119,7 @@ section {
 }
 
 .footer a {
-  color: #ffffff;
+  color: #000;
 }
 
 .footer .copyright {
