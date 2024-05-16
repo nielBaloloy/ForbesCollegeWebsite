@@ -907,7 +907,7 @@ section {
   transition: 0.5s;
 }
 
-@media (max-width: 424px) {
+@media (max-width: 420px) {
   .mobile-nav-toggle {
     display: block;
   }
@@ -917,15 +917,15 @@ section {
   }
  
 .side-Image >img{
-  max-width: 600px;
+  max-width: 500px;
   position:absolute;
-  margin-top: -400px;
+  margin-top: -300px;
 
 }
 .overlay{
   background-color: #2f8865;
   width: 350px;
-  height: 400px;
+  height: 380px;
   position: relative;
   margin-left: 7em;
   border-radius: 16px;
