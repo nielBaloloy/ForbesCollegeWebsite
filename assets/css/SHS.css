@@ -919,7 +919,8 @@ section {
 .side-Image >img{
   max-width: 500px;
   position:absolute;
-  margin-top: -300px;
+  margin-top: -330px;
+  margin-left: -2em;
 
 }
 .overlay{
@@ -936,7 +937,7 @@ section {
 .side-Image2 >img{
   max-width: 400px;
   position:absolute;
-  margin-top: -330px;
+  margin-top: -300px;
 
 }
 .overlay2{
