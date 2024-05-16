@@ -10,15 +10,16 @@
     height: 60px;
   }
   
-  #headers .logo h1 {
-    font-size: 28px;
-    margin: 0;
-    padding: 4px 0;
-    line-height: 1;
-    font-weight: 500;
-    color:rgb(255, 255, 255);
-    font-family: "Poppins", sans-serif;
-  }
+
+#header .logo h1{
+  font-size: 30px;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  font-family: "Poppins", sans-serif;
+}
   
   #headers .logo h1 a,
   #headers .logo h1 a:hover {

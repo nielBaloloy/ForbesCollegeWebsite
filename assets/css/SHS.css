@@ -94,6 +94,7 @@ h6,
   max-width: 900px;
   position:absolute;
   margin-top: -400px;
+  margin-left: -10px;
 
 }
 .overlay3{
@@ -904,6 +905,66 @@ section {
   display: none;
   line-height: 0;
   transition: 0.5s;
+}
+
+@media (max-width: 424px) {
+  .mobile-nav-toggle {
+    display: block;
+  }
+  
+  .navbar ul {
+    display: none;
+  }
+ 
+.side-Image >img{
+  max-width: 600px;
+  position:absolute;
+  margin-top: -400px;
+
+}
+.overlay{
+  background-color: #2f8865;
+  width: 350px;
+  height: 400px;
+  position: relative;
+  margin-left: 7em;
+  border-radius: 16px;
+  
+  
+}
+
+.side-Image2 >img{
+  max-width: 500px;
+  position:absolute;
+  margin-top: -330px;
+
+}
+.overlay2{
+  background-color: #d84b4b;
+  width: 450px;
+  height: 400px;
+  position: relative;
+  margin-left: 7em;
+  border-radius: 16px;
+}
+.side-Image3 >img{
+  max-width: 500px;
+  position:absolute;
+  margin-top: -330px;
+  margin-left: -10px;
+
+}
+.overlay3{
+  background-color: #ffd87d;
+  width: 450px;
+  height: 400px;
+  position: relative;
+  margin-left: 7em;
+  border-radius: 16px;
+  
+  
+}
+
 }
 
 @media (max-width: 991px) {
