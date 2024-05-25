@@ -66,12 +66,13 @@ h6,
 
 }
 .overlay{
-  background-color: #2f8865;
+  background: linear-gradient(to right, rgba(22, 102, 45, 0.673) 0%, rgba(31, 85, 61, 0.963) 100%), url('../img/shs/pngegg.png');
   width: 450px;
   height: 400px;
   position: relative;
   margin-left: 7em;
   border-radius: 16px;
+  background-size: cover;
   
   
 }
@@ -83,27 +84,29 @@ h6,
 
 }
 .overlay2{
-  background-color: #d84b4b;
+  background: linear-gradient(to right, rgba(223, 95, 95, 0.812) 0%, rgba(175, 53, 53, 0.741) 100%), url('../img/shs/Animation-–-DigitalAnimation-–-Digital-Production.jpg');
   width: 450px;
   height: 400px;
   position: relative;
   margin-left: 7em;
   border-radius: 16px;
+  background-size: cover;
 }
 .side-Image3 >img{
-  max-width: 900px;
+  max-width: 500px;
   position:absolute;
-  margin-top: -400px;
-  margin-left: -10px;
+  margin-top: -335px;
+
 
 }
 .overlay3{
-  background-color: #ffd87d;
+  background: linear-gradient(to right, rgba(255, 221, 119, 0.856) 0%, rgba(216, 178, 63, 0.889) 100%), url('../img/shs/bsit-1.png');
   width: 450px;
   height: 400px;
   position: relative;
   margin-left: 7em;
   border-radius: 16px;
+  background-size: contain;
   
   
 }
@@ -907,25 +910,18 @@ section {
   transition: 0.5s;
 }
 
-@media (min-width: 320px) {
-  .mobile-nav-toggle {
-    display: block;
-  }
-  
-  .navbar ul {
-    display: none;
-  }
+@media (max-width: 320px) {
  
 .side-Image >img{
   max-width: 500px;
   position:absolute;
   margin-top: -330px;
   margin-left: -2em;
-
+  
 }
 .overlay{
   background-color: #2f8865;
-  width: 350px;
+  width: 450px;
   height: 380px;
   position: relative;
   margin-left: 7em;
@@ -952,11 +948,11 @@ section {
   max-width: 500px;
   position:absolute;
   margin-top: -300px;
-  margin-left: -10px;
+  margin-left: -90px;
 
 }
 .overlay3{
-  background-color: #ffd87d;
+  background-color: #f3cc71;
   width: 450px;
   height: 400px;
   position: relative;
