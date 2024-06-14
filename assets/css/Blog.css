@@ -55,7 +55,13 @@ h6,
   font-family: "Poppins", sans-serif;
   color: #000;
 }
-
+.list-group-item {
+  border: none !important;
+  padding-left: 0;
+}
+.list-group-item ul {
+  padding-left: 20px; /* Optional: Adjust to your preference */
+}
 .container {
   z-index: 2;
   position: relative;
@@ -799,6 +805,7 @@ figcaption{
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
+  paddin:3em;
 }
 
 .header {
@@ -811,7 +818,7 @@ figcaption{
   margin: 0;
   padding: 15px 0;
   line-height: 1;
-  font-weight: 500;
+  font-weight: 700;
   color:rgb(255, 255, 255);
   font-family: "Poppins", sans-serif;
 }
