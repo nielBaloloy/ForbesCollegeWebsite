@@ -754,10 +754,12 @@ section {
   display: flex;
   list-style: none;
   align-items: center;
+  
 }
 
 .navbar li {
   position: relative;
+
 }
 
 .navbar a,

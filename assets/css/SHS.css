@@ -95,7 +95,7 @@ h6,
 .side-Image3 >img{
   max-width: 500px;
   position:absolute;
-  margin-top: -335px;
+  margin-top: -390px;
 
 
 }
@@ -106,7 +106,7 @@ h6,
   position: relative;
   margin-left: 7em;
   border-radius: 16px;
-  background-size: contain;
+  background-size: cover;
   
   
 }
@@ -1064,7 +1064,7 @@ display: block;
 # Hero Section
 --------------------------------------------------------------*/
 .hero-section {
-  background: linear-gradient(to right, rgba(1, 29, 9, 0.751) 0%, rgba(3, 50, 29, 0.866) 100%), url('../img/shs/shs-cover.jpg');
+  background: linear-gradient(to right, rgba(1, 29, 9, 0.751) 0%, rgba(3, 50, 29, 0.866) 100%), url('../img/shs/fcshsbg.jpg');
   background-position: right;
   background-size:cover;
   position: relative;
