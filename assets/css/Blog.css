@@ -814,7 +814,7 @@ figcaption{
 }
 
 #headers .logo h1 {
-  font-size: 28px;
+  font-size: 26px;
   margin: 0;
   padding: 15px 0;
   line-height: 1;
@@ -831,8 +831,8 @@ figcaption{
 
 #headers .logo img {
   padding: 0;
-  margin: 0;
-  max-height: 70px;
+  margin-top: 5px;
+  max-height: 50px;
 
 }
 

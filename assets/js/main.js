@@ -72,16 +72,17 @@ function Carousel(element, interval) {
         
         selectHeader.classList.add('header-scrolled')
         selectHeader.style.background="#04311ce1";
-        selectHeader.style.height="60px";
+        selectHeader.style.height="80px";
+       
        
         if (selectTopbar) {
           selectTopbar.classList.add('topbar-scrolled')
-
+          
         }
       } else {
         selectHeader.classList.remove('header-scrolled')
         selectHeader.style.background="#04311c21";
-        selectHeader.style.height="80px";
+        selectHeader.style.height="70px";
         if (selectTopbar) {
           selectTopbar.classList.remove('topbar-scrolled')
         }
