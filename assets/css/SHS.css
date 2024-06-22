@@ -783,6 +783,9 @@ section {
   max-height: 70px;
 
 }
+.#header .logo  .shsCaption{
+  size:20px
+}
 
 /*--------------------------------------------------------------
 # Navigation Menu
