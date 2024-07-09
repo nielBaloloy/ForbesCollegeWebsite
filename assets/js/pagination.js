@@ -1,7 +1,7 @@
 const newsItems = [
     {
         title: "Forbes College lauds the pioneer batch of B.S. in Criminology for passing the Criminologist Board Examination held on Feb. 2-4, 2024",
-        date: "March 7, 2024",
+        date: "July 9, 2024",
         image: "./assets/img/ccje/tarpCRIM.jpg",
         caption: "Forbes College lauds the pioneer batch of B.S. in Criminology for passing the Criminologist Board Examination held on Feb. 2-4, 2024. These Registered Criminologists are the first products of Forbes College’s B.S. in Criminology which had its “birth” in 2019."
     },
