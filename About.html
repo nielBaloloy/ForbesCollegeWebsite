@@ -37,39 +37,40 @@
 <body>
 
 
-  <!-- ======= Header ======= -->
-  <header id="headers" class=" header fixed-top d-flex align-items-center ">
-    <div class="container d-flex justify-content-between align-items-center ">
-
-      <div class="logo d-flex ">
-        <img src="./assets/img/ForbesLOGO.png" style="width:60px;" >
-        <h1><a href="index.html" style="color: white; font-size: 28px;">FORBES COLLEGE</a></h1>
+ 
+  <main id="main">
+    <header id="headers" class=" header fixed-top d-flex align-items-center ">
       
-      </div>
-
+      <div class="container d-flex justify-content-between ">
+      
+        <div class="logo d-flex ">
+          <img src="./assets/img/ForbesLOGO.png" >
+          <h1><a href="index.html">FORBES COLLEGE </a></h1>
+        </div>
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a href="index.html" style="text-decoration: none;">Home</a></li>
-          <li><a href="./CampusLife.html" style="text-decoration: none;">Campus Life</a></li>
-          <li><a href="./ForbesScribe.html" style="text-decoration: none;">News</a></li>
+          <li><a  href="index.html">Home</a></li>
+          <li><a class="active " href="./CampusLife.html">Campus Life</a></li>
+          <li><a href="./ForbesScribe.html">News</a></li>
          
-          <li class="dropdown"><a href="#" style="text-decoration: none;" ><span>Admission</span> <i class="bi bi-chevron-down"></i></a>
+          <li class="dropdown"><a href="#"><span>Admission</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="./Admission/Programs.html" style="text-decoration: none;">Programs</a></li>
-              <li><a href="./Admission/Requirements.html" style="text-decoration: none;">Requirements</a></li>
-              <li><a href="./Admission/SHS-Track.html" style="text-decoration: none;">SHS Academic Track</a></li>
-              <li><a href="./Admission/Scholarship.html" style="text-decoration: none;">Scholarship</a></li>
+              <li><a href="./Admission/Programs.html">Programs</a></li>
+              <li><a href="./Admission/Requirements.html">Requirements</a></li>
+              <li><a href="./Admission/SHS-Track.html">SHS Academic Track</a></li>
+              <li><a href="./Admission/Scholarship.html">Scholarship</a></li>
               
             </ul>
           </li>
-          <li><a class="active " href="#" style="text-decoration: none;">About Us</a></li>
+          <li><a href="./About.html">About Us</a></li>
         </ul>
+        
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 
     </div>
-  </header>
-  <!-- End Header -->
+    </header><!-- End Header -->
+  
   
   <div class="div-parallax">
     <div class="container">
@@ -82,10 +83,10 @@
 
 
 <!-- history -->
-<div class="historyMain">
+<div class="historyMain" id="sec1">
     <div class="heading" data-aos="fade-right">
         <div class="container">
-            <h1>Our History</h1>
+            <h1>Forbes History</h1>
         </div>
     </div>
     <div class="container">
@@ -105,7 +106,7 @@
 </div>
 
 <!-- education group -->
-<div class="Education pt-3" style="background-color: #f9f7f7;">
+<div class="Education pt-3" id="sec2" style="background-color: #f9f7f7;">
 <div class="heading" data-aos="fade-right">
     <div class="container">
         <h1>Forbes Education Group</h1>
@@ -148,7 +149,7 @@
 
 
 <!-- mission and vission -->
-    <div class="ms">
+    <div class="ms" id="sec3">
 
         <div class="heading" data-aos="fade-right">
             <div class="container">
@@ -204,7 +205,7 @@
 
 
 <!-- trustees -->
-<div class="trustees pt-3" style="background-color: #f9f7f7;">
+<div class="trustees pt-3" id="sec4" style="background-color: #f9f7f7;">
 <div class="heading" data-aos="fade-right">
     <div class="container">
         <h1> Board of Trustees</h1>
@@ -350,7 +351,7 @@
             <div class="col-md-4 mb-4 mb-md-0">
               <h3>GENERAL</h3>
               <ul class="list-unstyled">
-                <li><a href="#">Terms and Condition</a></li>
+                <li><a href="./forms/termsandCondition.html">Terms and Condition</a></li>
                 <li><a href="#">Data Privacy</a></li>
                 <li><a href="#">FAQ</a></li>
               </ul>
