@@ -397,10 +397,10 @@ section {
 }
 .seemore a,
 .seemore i{
-  color:rgb(2, 92, 2);
+  
   font-weight: 700;
   text-decoration: none;
-  font-size: larger;
+
   font-family: Arial, Helvetica, sans-serif;
 }
 .news1{
@@ -985,19 +985,28 @@ section {
 
 .hero-section .wave {
   width: 100%;  
- max-height:43.2%;
+  max-height:50.2%;
   overflow: hidden;
   position: absolute;
   z-index: 1;
   bottom: -150px;
  
 }
+.EnrollmentTag{
+  font-weight:600;
+  font-size:35px !important;
+  color:#fff703 !important;
 
+}
+.NewsSection{
+ 
+}
 @media screen and (max-width: 992px) {
   .hero-section .wave {
     bottom: -180px;
     height:40.2%;
   }
+
 }
 
 .hero-section .wave svg {

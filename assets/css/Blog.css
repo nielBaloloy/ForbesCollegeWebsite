@@ -797,6 +797,22 @@ figcaption{
   font-size: 19px;
   color:#5d5d5d
 }
+/* Pagination */
+.page-link{
+  color:gray;
+}
+.page-link:hover{
+  color:green;
+}
+
+.custom-pagination {
+  margin-top: 200px;
+  
+}
+.nav.clicked {
+  background-color: #f0f0f0; /* Gray background color when clicked */
+}
+
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
@@ -1274,6 +1290,7 @@ figcaption{
    
   }
 }
+
 @media (max-width: 500px) {
 
   #header .logo a {
