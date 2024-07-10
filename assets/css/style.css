@@ -378,7 +378,7 @@ section {
 
 /* news Section */
 .news-section {
-  background-color: #ebebeb;
+  background-color: white;
   color: #fff;
 }
 
@@ -874,8 +874,21 @@ section {
  .contactNum{
   display: none;
  }
-}
 
+ .news1 > .passer_img > .news_img{
+  background:white !important;
+  border:none;
+  max-height:200px;
+}
+}
+@media (max-width: 501px) {
+  
+ .news1 > .passer_img > .news_img{
+  background:white !important;
+  border:none;
+  height:20vh !important;
+}
+}
 .navbar-mobile {
   position: fixed;
   overflow: hidden;
@@ -990,15 +1003,36 @@ section {
   color:#fff703 !important;
 
 }
-.NewsSection{
- 
+.EnrollmentDesc{
+  font-weight:600;
+  font-size:25px !important;
+  color:white !important;
 }
+.news1 > .passer_img > .news_img{
+  background:white !important;
+  border:none;
+}
+.passer_img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%; /* Adjust the height as needed */
+}
+
+.center-image {
+  max-height: 500px; /* Maintain the max-height if necessary */
+}
+
+
 @media screen and (max-width: 992px) {
   .hero-section .wave {
     bottom: -180px;
     height:40.2%;
   }
-
+  .passer_img > img {
+    ali
+    max-height:100vh
+  }
 }
 
 .hero-section .wave svg {
