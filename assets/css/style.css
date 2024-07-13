@@ -1001,7 +1001,6 @@ section {
   font-weight:600;
   font-size:35px !important;
   color:#fff703 !important;
-
 }
 .EnrollmentDesc{
   font-weight:600;
@@ -1231,7 +1230,7 @@ section {
    
   }
 }
-@media (max-width: 330px) {
+@media screen and (min-width: 320px) and (max-width:480px) {
 
   #header .logo a {
     color: #ffffff;
@@ -1239,8 +1238,16 @@ section {
     font-family: "Poppins", sans-serif;
     font-weight: 600;
     margin-top:.5em
-    
-  
-   
   }
+  .EnrollmentTag{
+    font-weight:600;
+    font-size:30px !important;
+    color:#fff703 !important;
+  }
+  .EnrollmentDesc{
+    font-weight:600;
+    font-size:25px !important;
+    color:white !important;
+  }
+ 
 }

@@ -60,7 +60,10 @@ h6,
   padding-left: 0;
 }
 .list-group-item ul {
-  padding-left: 20px; /* Optional: Adjust to your preference */
+  padding-left: 15px; /* Optional: Adjust to your preference */
+}
+.list-group-item li {
+  margin: -3px; /* Optional: Adjust to your preference */
 }
 .container {
   z-index: 2;
@@ -1325,3 +1328,27 @@ figcaption{
   
   }
 }
+@media screen and (min-width: 320px) and (max-width:480px){
+.campus-heading{
+  font-size:36px;
+}
+  
+}
+/* tablet */
+@media screen and (min-width: 600px) and (max-width:1280px){
+  .campus-heading{
+    margin-top:0px !important ;
+    font-size:2em;
+  }
+  .news-caption{
+    font-size:12px;
+  }
+  .SubFcHeading{
+    font-size:14px !important;
+    margin-top:0px !important ;
+  }
+  .owner{
+    font-size:12px !important;
+    margin-top:0px !important ;
+  }
+  }
