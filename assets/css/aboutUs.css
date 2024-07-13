@@ -1,6 +1,9 @@
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
+html {
+  overflow-x: hidden;
+}
 .header {
     height: 80px;
     transition: all 0.5s;
@@ -350,6 +353,11 @@
     padding-bottom: 20px;
     text-align: left;
     margin: 20px auto;
+    color: #043d18;
+    
+    /* background: linear-gradient(-45deg, #114e1c, #043d18); */
+    /* -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; */
   }
   .heading .container{
     border-left: 5px solid #003416;
@@ -359,10 +367,10 @@
     margin-bottom: 0;
   }
   .heading h1{
-    font-size: 45px;
-    font-weight: 200;
+    font-size: 2.5rem;
+    font-weight: 790;
     position: relative;
-    font-family:serif;
+    /* font-family:Arial ; */
   }
   
   .history{
@@ -467,6 +475,7 @@
     .heading{
         padding: 0px 20px;
         padding-top: 5em;
+        
     }
     .heading h2{
         font-size: 30px;
