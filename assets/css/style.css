@@ -1226,9 +1226,14 @@ section {
     font-family: "Poppins", sans-serif;
     font-weight: 600;
     margin-top:.5em
-    
-  
-   
+  }
+  #header .logo h1 {
+    font-size: 18px;
+    margin-top:20px;
+    padding: 4px 0;
+    line-height: 1;
+    font-weight: 700;
+    font-family: "Poppins", sans-serif;
   }
 }
 /* for mobile */
