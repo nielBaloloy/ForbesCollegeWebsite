@@ -1277,6 +1277,7 @@ display: block;
     padding: 4px 0;
     line-height: 1;
     font-weight: 600;
+    font-family: "Poppins", sans-serif;
   }
   #header .logo img {
     padding: .5rem;
