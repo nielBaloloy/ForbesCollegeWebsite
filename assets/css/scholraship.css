@@ -336,7 +336,14 @@ section {
 .pricing ul li {
   margin-bottom: 10px;
 }
-.accordion-button:focus {
+.accordion-button{
+  color:white;
+  border:1px solid white;
+  box-shadow: none !important; /* Remove the blue border */
+  background-color: rgb(2, 57, 2) !important;
+}
+
+/* .accordion-button:focus {
   color:white;
  
   border:1px solid white;
@@ -348,7 +355,7 @@ section {
   font-size: 28px;
   border:1px solid white;
   background-color: rgb(4, 44, 20) !important;
-}
+} */
 .pricing .btn-white {
   background: #fff;
   border: 2px solid rgb(241, 241, 241);
