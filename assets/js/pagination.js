@@ -1,5 +1,11 @@
 const newsItems = [
     {
+        title: "Coming Soon",
+        date: "TBA",
+        image: "./assets/img/ccje/Screenshot 2023-12-14 101258.png",
+        caption: "Sample"
+    },
+    {
         title: "Forbes College lauds the pioneer batch of B.S. in Criminology for passing the Criminologist Board Examination held on Feb. 2-4, 2024",
         date: "July 9, 2024",
         image: "./assets/img/ccje/tarpCRIM.jpg",
@@ -23,6 +29,7 @@ const newsItems = [
         image: "./assets/img/ccje/Screenshot 2023-12-14 101258.png",
         caption: "The Opening Ceremonies of the 21st Regional Inter-CCJE Skills Olympics 2023 was made colorful by the CCJE delegates and was graced by Dr. Michael M. Millare - CHED Education Supervisor, Dr. Wilmor T. Plopino - CODCJE President, Atty. Joan Elizabeth L. Aquende - Forbes College President, and Dr. Valiente G. Tebia - Dean, FC CCJE."
     }
+
 ];
 
 const itemsPerPage = 1; // Items per page
