@@ -1,11 +1,5 @@
 const newsItems = [
     {
-        title: "Coming Soon",
-        date: "TBA",
-        image: "./assets/img/ccje/Screenshot 2023-12-14 101258.png",
-        caption: "Sample"
-    },
-    {
         title: "Forbes College lauds the pioneer batch of B.S. in Criminology for passing the Criminologist Board Examination held on Feb. 2-4, 2024",
         date: "July 9, 2024",
         image: "./assets/img/ccje/tarpCRIM.jpg",
