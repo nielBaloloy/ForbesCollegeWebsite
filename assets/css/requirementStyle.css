@@ -814,7 +814,7 @@ section {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #2d71a1;
+  color: #07642f;
 }
 
 .navbar .dropdown:hover>ul {
@@ -1098,7 +1098,7 @@ display: block;
 # Footer
 --------------------------------------------------------------*/
 .footer {
-  background-color: #eeeeee;
+  background-color:#e6e6e6;
   padding: 5rem 0 2.5rem 0;
 }
 

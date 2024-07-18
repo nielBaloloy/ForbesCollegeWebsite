@@ -128,7 +128,7 @@ html {
   .navbar .dropdown ul a:hover,
   .navbar .dropdown ul .active:hover,
   .navbar .dropdown ul li:hover>a {
-    color: #2d71a1;
+    color: #07642f;
   }
   
   .navbar .dropdown:hover>ul {
@@ -768,7 +768,7 @@ html {
   # Footer
   --------------------------------------------------------------*/
   .footer {
-  background-color:#cacaca;
+    background-color:#e6e6e6;
   padding: 2rem 0 2.5rem 0;
   }
   
@@ -845,9 +845,10 @@ html {
   
   .site-section {
     padding: 2.5em 0; }
+
     @media (min-width: 768px) {
       .site-section {
-        padding: 5em 0; } }
+        padding: 1em 0; } }
     .site-section.site-section-sm {
       padding: 4em 0; }
   

@@ -495,6 +495,11 @@ section {
   .news-section h2 {
     font-size: 2rem;
   }
+  video {
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+}
 }
 .svg{
   min-height: 50vh;
@@ -940,7 +945,7 @@ figcaption{
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #2d71a1;
+  color: #07642f;
 }
 
 .navbar .dropdown:hover>ul {
@@ -1002,6 +1007,7 @@ figcaption{
   right: 0;
   left: 0;
   bottom: 0;
+  height:600px;
   background: rgba(15, 16, 16, 0);
   transition: 0.3s;
   z-index: 999;
@@ -1221,7 +1227,7 @@ figcaption{
 # Footer
 --------------------------------------------------------------*/
 .footer {
-  background-color: #c9c9c9;
+  background-color:#e6e6e6;
   padding: 5rem 0 2.5rem 0;
 }
 

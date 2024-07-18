@@ -921,6 +921,7 @@ section {
   left: 15px;
   padding: 10px 0;
   border-radius: 10px;
+  
   background-color: #fcfcfc;
   overflow-y: auto;
   transition: 0.3s;
@@ -1148,7 +1149,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 .footer {
-  background-color: #c4c4c4;
+  background-color:#e6e6e6;
   padding: 2rem 0 2.5rem 0;
 }
 
@@ -1207,6 +1208,7 @@ section {
   .footer  {
     text-align: center;
   }
+  
   #header .logo a {
     color: #ffffff;
     font-size:28px;

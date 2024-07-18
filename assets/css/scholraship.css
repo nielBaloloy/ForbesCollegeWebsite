@@ -348,8 +348,8 @@ section {
  
   border:1px solid white;
   box-shadow: none !important; /* Remove the blue border */
-  background-color: rgb(2, 57, 2) !important;
-}
+  /* background-color: rgb(2, 57, 2) !important;
+} */
 .accordion-button:not(.collapsed) {
   color:white;
   font-size: 28px;
@@ -824,7 +824,7 @@ section {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #2d71a1;
+  color: #07642f;
 }
 
 .navbar .dropdown:hover>ul {
@@ -1108,7 +1108,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 .footer {
-  background-color: #eeeeee;
+  background-color:#e6e6e6;
   padding: 5rem 0 2.5rem 0;
 }
 
