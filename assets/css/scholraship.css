@@ -348,8 +348,8 @@ section {
  
   border:1px solid white;
   box-shadow: none !important; /* Remove the blue border */
-  background-color: rgb(2, 57, 2) !important;
-}
+  /* background-color: rgb(2, 57, 2) !important;
+} */
 .accordion-button:not(.collapsed) {
   color:white;
   font-size: 28px;

@@ -16,7 +16,7 @@ a {
 }
 .overviewSection{
   max-width: 700px;
-  margin-top:2.5em;
+  margin-top:1.5em;
   padding: 1em;
  
 
@@ -77,6 +77,24 @@ h6,
   
 }
 
+.side-Image1 >img{
+  max-width: 900px;
+  position:absolute;
+  margin-top: -410px;
+  margin-left: 8em;
+
+}
+.overlay1{
+  background: linear-gradient(to right, rgba(240, 103, 103, 0.812) 0%, rgba(168, 63, 63, 0.741) 100%), url('../img/shs/humss2.jpg');
+  background-size: cover;
+  width: 450px;
+  height: 400px;
+  position: relative;
+  margin-left: 7em;
+  border-radius: 16px;
+  
+}
+
 .side-Image2 >img{
   max-width: 500px;
   position:absolute;
@@ -84,7 +102,7 @@ h6,
 
 }
 .overlay2{
-  background: linear-gradient(to right, rgba(223, 95, 95, 0.812) 0%, rgba(175, 53, 53, 0.741) 100%), url('../img/shs/animbg.jpg');
+  background: linear-gradient(to right, rgba(22, 102, 45, 0.673) 0%, rgba(31, 85, 61, 0.963) 100%), url('../img/shs/animbg.jpg');
   width: 450px;
   height: 400px;
   position: relative;
@@ -100,7 +118,7 @@ h6,
 
 }
 .overlay3{
-  background: linear-gradient(to right, rgba(255, 221, 119, 0.856) 0%, rgba(216, 178, 63, 0.889) 100%), url('../img/shs/bsit-1.png');
+  background: linear-gradient(to right, rgba(255, 221, 119, 0.856) 0%, rgba(216, 178, 63, 0.889) 100%), url('../img/shs/gas.png');
   width: 450px;
   height: 400px;
   position: relative;
@@ -108,8 +126,11 @@ h6,
   border-radius: 16px;
   background-size: cover;
   
-  
 }
+
+  
+  
+
 .border-top {
   border-top: 1px solid #f2f2f2 !important;
 }
@@ -783,7 +804,7 @@ section {
   max-height: 70px;
 
 }
-.#header .logo  .shsCaption{
+#header .logo  .shsCaption{
   size:20px
 }
 
