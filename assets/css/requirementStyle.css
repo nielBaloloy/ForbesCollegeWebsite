@@ -1158,3 +1158,33 @@ display: block;
     text-align: center;
   }
 }
+/* Tablets */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .hero-section.inner-page .hero-text {
+    margin-top: -20em;
+    width:100%;
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+  }
+  .hero-section.inner-page .hero-text nav {
+  display:flex;
+  justify-content:center;
+  align-self:center;
+  }
+}
+/* movbile */
+@media only screen and (max-width: 767px) {
+  .hero-section.inner-page .hero-text {
+    margin-top: -10em;
+    width:100%;
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+  }
+  .hero-section.inner-page .hero-text nav {
+  display:flex;
+  justify-content:center;
+  align-self:center;
+  }
+}
