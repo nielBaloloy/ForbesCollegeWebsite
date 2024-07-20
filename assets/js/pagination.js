@@ -9,7 +9,7 @@ const newsItems = [
         title: "PROJECT: A.B.K.D (Awareness of Bombs that Kill lives and Destroy properties)",
         date: "March 26, 2024",
         image: "./assets/img/ccje/newscrim.jpg",
-        caption: "As part of Forbes College’s commitment to equip BS in Criminology students with technical skills needed for their future career, the College of Criminal Justice Education sponsor a forum termed as “PROJECT: A.B.K.D (Awareness of Bombs that Kill lives and Destroy properties).” This one-day undertaking, to be held on March 26, 2024, is in coordination with the PNP Explosive Ordinance (EOD) and Canine Group."
+        caption: "As part of Forbes College’s commitment to equip BS in Criminology students with technical skills needed for their future career, the College of Criminal Justice Education sponsored a forum termed as “PROJECT: A.B.K.D (Awareness of Bombs that Kill lives and Destroy properties).” This one-day undertaking, held on March 26, 2024, was in coordination with the PNP Explosive Ordinance (EOD) and Canine Group."
     },
     {
         title: "Forbesians underwent a three-day mind sharpening session",
