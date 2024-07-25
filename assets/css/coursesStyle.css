@@ -1284,7 +1284,7 @@ display: block;
 }
 
 .image-bpa::before{
-  content: "BS PUBLIC ADMINISTRATION";
+  content: "BACHELOR IN PUBLIC ADMINISTRATION";
   position: relative;
   top: .5em;
   left:.5em;
@@ -1410,7 +1410,7 @@ display: block;
 }
 
 .image-bpa::before{
-  content: "BACHELOR OF SCIENCE IN PUBLIC ADMINISTRATION";
+  content: "BACHELOR IN PUBLIC ADMINISTRATION";
   position: relative;
   top: .5em;
   left:.3em;
@@ -1564,7 +1564,7 @@ display: block;
 }
 
 .image-bpa::before{
-  content: "BACHELOR OF SCIENCE IN PUBLIC ADMINISTRATION";
+  content: "BACHELOR IN PUBLIC ADMINISTRATION";
   position: relative;
   top: 1.3em;
   left:.4em;

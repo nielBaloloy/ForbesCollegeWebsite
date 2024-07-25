@@ -15,10 +15,10 @@ const newsItems = [
         title: "Forbesians underwent a three-day mind sharpening session",
         date: "September 7, 2023",
         image: "./assets/img/Screenshot 2023-12-31 004150.png",
-        caption: "On September 2,4,6, 2023, Forbesians underwent a three-day mind sharpening session with Mr. Roberto “Memory Man” M. Racasa who is a five-time representative of the Philippines to the World Memory Championships. The CCJE pioneer graduates, third and fourth year students who attended the Memory Program at the Forbes College Main Library had doses of mind mapping, super memory, rapid reading, excellent focus and memorization, and other activities that boost one’s brain functions."
+        caption: "On September 2,4,6, 2023, Forbesians underwent a three-day mind sharpening session with Mr. Roberto “Memory Man” M. Racasa who is a five-time representative of the Philippines to the World Memory Championships. The CCJE pioneer graduates, third and fourth year students who attended the Memory Program at the Forbes College Main Library, had doses of mind mapping, super memory, rapid reading, excellent focus and memorization, and other activities that boost one’s brain functions."
     },
     {
-        title: "The Opening Ceremonies of the 21st Regional Inter-CCJE Skills Olympics 2023",
+        title: "Opening Ceremonies of the 21st Regional Inter-CCJE Skills Olympics 2023",
         date: "May 3, 2023",
         image: "./assets/img/ccje/Screenshot 2023-12-14 101258.png",
         caption: "The Opening Ceremonies of the 21st Regional Inter-CCJE Skills Olympics 2023 was made colorful by the CCJE delegates and was graced by Dr. Michael M. Millare - CHED Education Supervisor, Dr. Wilmor T. Plopino - CODCJE President, Atty. Joan Elizabeth L. Aquende - Forbes College President, and Dr. Valiente G. Tebia - Dean, FC CCJE."
