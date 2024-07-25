@@ -26,7 +26,7 @@ const newsItems = [
 
 ];
 
-const itemsPerPage = 1; // Items per page
+const itemsPerPage = 1; 
 let currentPage = 1;
 
 function displayItems(pageNumber) {
