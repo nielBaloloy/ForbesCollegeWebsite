@@ -120,12 +120,12 @@ background-position:10%;
 margin-bottom: 2em;
 }
 .image-bsba-mm::before{
-content: "BSBA MAJOR IN MARKETING MANAGEMENT";
+content: "BACHELOR OF SCIENCE IN BUSINESS ADMINISTRATION MAJOR IN MARKETING MANAGEMENT";
   position: relative;
   top: .5em;
   left:1em;
   color: white;
-  font-size:42px;
+  font-size:35px;
   font-family: "Poppins", sans-serif;
   padding: 1em;
   display:flex;
@@ -144,12 +144,12 @@ content: "BSBA MAJOR IN MARKETING MANAGEMENT";
   margin-bottom: 2em;
 }
 .image-bsmf::before{
-  content: "BSBA MAJOR IN MICROFINANCE";
+  content: "BACHELOR OF SCIENCE IN BUSINESS ADMINISTRATION MAJOR IN MICROFINANCE";
   position: relative;
   top: .5em;
   left:1em;
   color: white;
-  font-size:42px;
+  font-size:35px;
   font-family: "Poppins", sans-serif;
   padding: 1em;
   display:flex;
@@ -166,12 +166,12 @@ content: "BSBA MAJOR IN MARKETING MANAGEMENT";
   margin-bottom: 2em;
 }
 .image-bpa::before{
-  content: "BS PUBLIC ADMINISTRATION";
+  content: "BACHELOR OF SCIENCE IN PUBLIC ADMINISTRATION";
   position: relative;
-  top: .5em;
+  top: 1.5em;
   left:1em;
   color: white;
-  font-size:42px;
+  font-size:40px;
   font-family: "Poppins", sans-serif;
   padding: 1em;
   display:flex;
@@ -190,10 +190,10 @@ content: "BSBA MAJOR IN MARKETING MANAGEMENT";
 .image-bsit::before{
   content: "BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY";
   position: relative;
-  top: .5em;
+  top: 1.5em;
   left:1em;
   color: white;
-  font-size:42px;
+  font-size:40px;
   font-family: "Poppins", sans-serif;
   padding: 1em;
   display:flex;
@@ -212,12 +212,12 @@ content: "BSBA MAJOR IN MARKETING MANAGEMENT";
   margin-bottom: 2em;
 }
 .image-bsit-ANIM::before{
-  content: "BSIT WITH SPECIALIZATION IN DIGITAL ANIMATION";
+  content: "BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY WITH SPECIALIZATION IN DIGITAL ANIMATION";
   position: relative;
   top: 1em;
   left:1em;
   color: white;
-  font-size:32px;
+  font-size:35px;
   font-family: Arial, Helvetica, sans-serif;
   padding: 1em;
   display:flex;
@@ -242,10 +242,10 @@ content: "BSBA MAJOR IN MARKETING MANAGEMENT";
 .image-bscrim::before{
   content: "BACHELOR OF SCIENCE IN CRIMINOLOGY";
   position: relative;
-  top: .5em;
+  top: 1.3em;
   left:.2em;
   color: white;
-  font-size:42px;
+  font-size:40px;
   font-family: "Poppins", sans-serif;
   padding: 1em;
   font-weight:600;
@@ -1271,9 +1271,9 @@ display: block;
 }
 
 .image-bsba-mm::before{
-  content: "BSBA MAJOR IN MARKETING MANAGEMENT";
+  content: "BACHELOR OF SCIENCE IN BUSINESS ADMINISTRATION MAJOR IN MARKETING MANAGEMENT";
   position: relative;
-  top: 1em;
+  top: .5em;
   left:.4em;
   color: white;
   font-size:34px;
@@ -1285,7 +1285,7 @@ display: block;
 }
 
 .image-bpa::before{
-  content: "BS PUBLIC ADMINISTRATION";
+  content: "BACHELOR IN PUBLIC ADMINISTRATION";
   position: relative;
   top: .5em;
   left:.5em;
@@ -1298,12 +1298,12 @@ display: block;
 }
 
 .image-bsit-ANIM::before{
-  content: "BSIT WITH SPECIALIZATION IN DIGITAL ANIMATION";
+  content: "BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY WITH SPECIALIZATION IN DIGITAL ANIMATION";
   position: relative;
-  top: .4em;
+  top: .1em;
   left:.5em;
   color: white;
-  font-size:42px;
+  font-size:40px;
   font-family: Arial, Helvetica, sans-serif;
   padding: 1em;
   display:flex;
@@ -1411,7 +1411,7 @@ display: block;
 }
 
 .image-bpa::before{
-  content: "BS PUBLIC ADMINISTRATION";
+  content: "BACHELOR IN PUBLIC ADMINISTRATION";
   position: relative;
   top: .5em;
   left:.3em;
@@ -1424,12 +1424,12 @@ display: block;
 }
 
 .image-bsit-ANIM::before{
-  content: "BSIT WITH SPECIALIZATION IN DIGITAL ANIMATION";
+  content: "BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY WITH SPECIALIZATION IN DIGITAL ANIMATION";
   position: relative;
-  top: .2em;
+  top: .1em;
   left:.5em;
   color: white;
-  font-size:38px;
+  font-size:34px;
   font-family: Arial, Helvetica, sans-serif;
   padding: 1em;
   display:flex;
@@ -1463,12 +1463,12 @@ display: block;
 
 }
 .image-bsba-mm::before{
-  content: "BSBA MAJOR IN MARKETING MANAGEMENT";
+  content: "BACHELOR OF SCIENCE IN BUSINESS ADMINISTRATION MAJOR IN MARKETING MANAGEMENT";
   position: relative;
-  top: 1em;
+  top: .5em;
   left:.4em;
   color: white;
-  font-size:28px;
+  font-size:25px;
   font-family: "Poppins", sans-serif;
   padding: 1em;
   font-weight:600;
@@ -1476,9 +1476,9 @@ display: block;
 
 }
 .image-bsmf::before{
-  content: "BSBA MAJOR IN MICROFINANCE";
+  content: "BACHELOR OF SCIENCE IN BUSINESS ADMINISTRATION MAJOR IN MICROFINANCE";
   position: relative;
-  top: 1em;
+  top: .5em;
   left:.4em;
   color: white;
   font-size:32px;
@@ -1551,12 +1551,12 @@ display: block;
 }
   
 .image-bsmf::before{
-  content: "BSBA MAJOR IN MICROFINANCE";
+  content: "BACHELOR OF SCIENCE IN BUSINESS ADMINISTRATION MAJOR IN MICROFINANCE";
   position: relative;
-  top: 1.3em;
+  top: .1em;
   left:.4em;
   color: white;
-  font-size:28px;
+  font-size:26px;
   font-family: "Poppins", sans-serif;
   padding: 1em;
   font-weight:600;
@@ -1565,7 +1565,7 @@ display: block;
 }
 
 .image-bpa::before{
-  content: "BS PUBLIC ADMINISTRATION";
+  content: "BACHELOR IN PUBLIC ADMINISTRATION";
   position: relative;
   top: 1.3em;
   left:.4em;
